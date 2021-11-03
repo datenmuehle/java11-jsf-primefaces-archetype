@@ -8,7 +8,7 @@
     <packaging>war</packaging>
  
     <name>${artifactId}</name>
-    <url>com.github.datenmuehle</url>
+    <url>https://github.com/datenmuehle/java11-jsf-primefaces-archetype</url>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
