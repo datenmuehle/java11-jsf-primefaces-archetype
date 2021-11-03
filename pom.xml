@@ -6,7 +6,24 @@
   <artifactId>java11-jsf-primefaces-archetype</artifactId>
   <version>1.0</version>
   <packaging>maven-archetype</packaging>
- 
+
+  <name>${project.groupId}:${project.artifactId}</name>
+  <description>This archetype creates a project to use JSF with java 11 with primefaces.</description>
+  <url>https://github.com/datenmuehle</url>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+    </license>
+  </licenses>
+
+  <scm>
+    <connection>scm:git:git://github.com:datenmuehle/java11-jsf-primefaces-archetype.git</connection>
+    <developerConnection>scm:git:ssh://github.com:datenmuehle/java11-jsf-primefaces-archetype.git</developerConnection>
+    <url>https://github.com/datenmuehle/java11-jsf-primefaces-archetyper</url>
+  </scm>
+
   <build>
     <extensions>
       <extension>
