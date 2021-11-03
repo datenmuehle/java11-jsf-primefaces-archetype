@@ -1,4 +1,4 @@
-package org.datenmuehle;
+package com.github.datenmuehle;
 
 import jakarta.faces.bean.ManagedBean;
 
