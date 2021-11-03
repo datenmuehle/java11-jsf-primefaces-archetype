@@ -8,7 +8,7 @@
     <packaging>war</packaging>
  
     <name>${artifactId}</name>
-    <url>datenmuehle.org</url>
+    <url>com.github.datenmuehle</url>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
